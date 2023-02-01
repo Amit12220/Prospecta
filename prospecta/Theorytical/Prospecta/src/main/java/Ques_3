@@ -1,0 +1,4 @@
+Ans-the key Things that i would consider while creating/consuming Api to ensure it is secure and reliable:-
+1.provide login or any other type of security so that no other person able to change or disturb anythings in Api.
+2.while  creating it would better for us to handle exception so that caller does not get unnecssary details;
+3.all the annotations should be perfect.
